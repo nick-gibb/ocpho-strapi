@@ -1,3 +1,3 @@
-# Strapi application
+# OCPHO Strapi
 
-A quick description of your strapi application
+The CMS API powering the briefing dashboard.
