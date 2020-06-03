@@ -18,6 +18,10 @@
       "collection": "post",
       "via": "themes",
       "dominant": true
+    },
+    "description": {
+      "type": "text",
+      "required": false
     }
   }
 }
